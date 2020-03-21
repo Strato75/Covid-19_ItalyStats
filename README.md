@@ -3,6 +3,12 @@ Jupyter notebooks to create diagrams about Covid-19 epidemics in Italy by using 
 
 Here a preview of statistics computed by using the code in this repository:
 
+Worldwide statistics:
+![](notebooks/figures/global_resume.png)
+
+Per country statistics:
+![](notebooks/figures/countries_resume.png)
+
 Italian Statistics:
 ![](notebooks/figures/Italy_stats.png)
 
