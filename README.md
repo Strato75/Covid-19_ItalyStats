@@ -12,6 +12,3 @@ Per region statistics:
 Per province statistics:
 ![](notebooks/figures/provinces_trend.png)
 
-Provinces Choroleth Map:
-[click_here](notebooks/figures/province_choropleth_map.html)
-
