@@ -20,13 +20,13 @@ Here a preview of statistics computed by using the code in <a href="https://gith
 ### Per province statistics:
 ![](notebooks/figures/provinces_trend.png)
 
-<a href="notebooks/figures/province_choropleth_map.html">Choropleth: Total cases per province</a>
+<a href="notebooks/figures/province_choropleth_map.html">Choropleth map: Total cases per province</a>
 
-<a href="notebooks/figures/province_choropleth_map_normalized.html">Choropleth: Cases per 100000 inhabitants per province</a>
+<a href="notebooks/figures/province_choropleth_map_normalized.html">Choropleth map: Cases per 100000 inhabitants per province</a>
 
-<a href="notebooks/figures/timesliderchoroplet_prov_totcasi.html">Time evolution choropleth: Total cases per province</a>
+<a href="notebooks/figures/timesliderchoroplet_prov_totcasi.html">Time evolution choropleth map: Total cases per province</a>
 
-<a href="notebooks/figures/timesliderchoroplet_prov_totcasi_norm.html">Time evolution choropleth: Cases per 100000 inhabitants per province</a>
+<a href="notebooks/figures/timesliderchoroplet_prov_totcasi_norm.html">Time evolution choropleth map: Cases per 100000 inhabitants per province</a>
 
 ##### Contributor:
 Giovanni Busonera
