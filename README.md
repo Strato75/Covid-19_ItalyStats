@@ -27,3 +27,6 @@ Here a preview of statistics computed by using the code in <a href="https://gith
 <a href="notebooks/figures/timesliderchoroplet_prov_totcasi.html">Time evolution choropleth: Total cases per province</a>
 
 <a href="notebooks/figures/timesliderchoroplet_prov_totcasi_norm.html">Time evolution choropleth: Cases per 100000 inhabitants per province</a>
+
+##### Contributor:
+Giovanni Busonera
