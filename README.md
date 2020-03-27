@@ -21,7 +21,7 @@ Click on an image to get its full size version.
 </p>
 
 ### Italy:
-### Whole nation statistics:
+#### Whole nation statistics:
 <p>
 <a href="notebooks/figures/Italy_stats.png">
 <img border="0" alt="Italy statistics" src="notebooks/figures/Italy_stats.png" width="300" height="200">
