@@ -3,22 +3,44 @@ Worldwide and italian diagrams are generated respectively by using the <a href="
 
 Here a preview of statistics computed by using the code in <a href="https://github.com/Strato75/Covid-19_ItalyStats">this</a> repository.
 
-## Worldwide:
-### Aggregate data:
-![](notebooks/figures/global_resume.png)
+Click on an image to get its full size version.
 
-### Per country statistics:
-![](notebooks/figures/countries_resume.png)
+### Worldwide:
+#### Aggregate data:
+<p>
+<a href="notebooks/figures/global_resume.png">
+<img border="0" alt="Worldwide aggregate data" src="notebooks/figures/global_resume.png" width="300" height="200">
+</a>
+</p>
 
-## Italy:
+#### Per country statistics:
+<p>
+<a href="notebooks/figures/countries_resume.png">
+<img border="0" alt="Worldwide per country statistics" src="notebooks/figures/countries_resume.png" width="300" height="200">
+</a>
+</p>
+
+### Italy:
 ### Whole nation statistics:
-![](notebooks/figures/Italy_stats.png)
+<p>
+<a href="notebooks/figures/Italy_stats.png">
+<img border="0" alt="Italy statistics" src="notebooks/figures/Italy_stats.png" width="300" height="200">
+</a>
+</p>
 
-### Per region statistics:
-![](notebooks/figures/per_region_stats.png)
+#### Per region statistics:
+<p>
+<a href="notebooks/figures/per_region_stats.png">
+<img border="0" alt="Per region statistics" src="notebooks/figures/per_region_stats.png" width="300" height="200">
+</a>
+</p>
 
-### Per province statistics:
-![](notebooks/figures/provinces_trend.png)
+#### Per province statistics:
+<p>
+<a href="notebooks/figures/provinces_trend.png">
+<img border="0" alt="Per province statistics" src="notebooks/figures/provinces_trend.png" width="300" height="200">
+</a>
+</p>
 
 <a href="notebooks/figures/province_choropleth_map.html">Choropleth map: Total cases per province</a>
 
