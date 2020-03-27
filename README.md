@@ -46,6 +46,8 @@ Click on an image to get its full size version.
 
 <a href="notebooks/figures/province_choropleth_map_normalized.html">Choropleth map: Cases per 100000 inhabitants per province</a>
 
+To see time evolution of covid-19 in each province, move the slider on the top of the pages of the following links:
+
 <a href="notebooks/figures/timesliderchoroplet_prov_totcasi.html">Time evolution choropleth map: Total cases per province</a>
 
 <a href="notebooks/figures/timesliderchoroplet_prov_totcasi_norm.html">Time evolution choropleth map: Cases per 100000 inhabitants per province</a>
