@@ -9,14 +9,14 @@ Click on an image to get its full size version.
 #### Aggregate data:
 <p>
 <a href="notebooks/figures/global_resume.png">
-<img border="0" alt="Worldwide aggregate data" src="notebooks/figures/global_resume.png" width="550" height="350">
+<img border="0" alt="Worldwide aggregate data" src="notebooks/figures/global_resume.png" width="640" height="400">
 </a>
 </p>
 
 #### Per country statistics:
 <p>
 <a href="notebooks/figures/countries_resume.png">
-<img border="0" alt="Worldwide per country statistics" src="notebooks/figures/countries_resume.png" width="550" height="350">
+<img border="0" alt="Worldwide per country statistics" src="notebooks/figures/countries_resume.png" width="640" height="400">
 </a>
 </p>
 
@@ -24,14 +24,14 @@ Click on an image to get its full size version.
 #### Whole nation statistics:
 <p>
 <a href="notebooks/figures/Italy_stats.png">
-<img border="0" alt="Italy statistics" src="notebooks/figures/Italy_stats.png" width="550" height="400">
+<img border="0" alt="Italy statistics" src="notebooks/figures/Italy_stats.png" width="640" height="500">
 </a>
 </p>
 
 #### Per region statistics:
 <p>
 <a href="notebooks/figures/per_region_stats.png">
-<img border="0" alt="Per region statistics" src="notebooks/figures/per_region_stats.png" width="650" height="500">
+<img border="0" alt="Per region statistics" src="notebooks/figures/per_region_stats.png" width="640" height="500">
 </a>
 </p>
 
@@ -75,7 +75,7 @@ Click on an image to get its full size version.
 #### Per province statistics:
 <p>
 <a href="notebooks/figures/provinces_trend.png">
-<img border="0" alt="Per province statistics" src="notebooks/figures/provinces_trend.png" width="550" height="400">
+<img border="0" alt="Per province statistics" src="notebooks/figures/provinces_trend.png" width="640" height="450">
 </a>
 </p>
 
