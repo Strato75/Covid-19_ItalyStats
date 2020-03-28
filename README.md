@@ -31,7 +31,7 @@ Click on an image to get its full size version.
 #### Per region statistics:
 <p>
 <a href="notebooks/figures/per_region_stats.png">
-<img border="0" alt="Per region statistics" src="notebooks/figures/per_region_stats.png" width="600" height="400">
+<img border="0" alt="Per region statistics" src="notebooks/figures/per_region_stats.png" width="650" height="500">
 </a>
 </p>
 
