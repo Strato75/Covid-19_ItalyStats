@@ -9,14 +9,14 @@ Click on an image to get its full size version.
 #### Aggregate data:
 <p>
 <a href="notebooks/figures/global_resume.png">
-<img border="0" alt="Worldwide aggregate data" src="notebooks/figures/global_resume.png" width="300" height="200">
+<img border="0" alt="Worldwide aggregate data" src="notebooks/figures/global_resume.png" width="550" height="350">
 </a>
 </p>
 
 #### Per country statistics:
 <p>
 <a href="notebooks/figures/countries_resume.png">
-<img border="0" alt="Worldwide per country statistics" src="notebooks/figures/countries_resume.png" width="300" height="200">
+<img border="0" alt="Worldwide per country statistics" src="notebooks/figures/countries_resume.png" width="550" height="350">
 </a>
 </p>
 
@@ -24,21 +24,58 @@ Click on an image to get its full size version.
 #### Whole nation statistics:
 <p>
 <a href="notebooks/figures/Italy_stats.png">
-<img border="0" alt="Italy statistics" src="notebooks/figures/Italy_stats.png" width="300" height="200">
+<img border="0" alt="Italy statistics" src="notebooks/figures/Italy_stats.png" width="550" height="400">
 </a>
 </p>
 
 #### Per region statistics:
 <p>
 <a href="notebooks/figures/per_region_stats.png">
-<img border="0" alt="Per region statistics" src="notebooks/figures/per_region_stats.png" width="300" height="200">
+<img border="0" alt="Per region statistics" src="notebooks/figures/per_region_stats.png" width="550" height="400">
 </a>
 </p>
+
+#### Per region detailed statistics:
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="notebooks/figures/regions/Abruzzo_whole_stats.png">Abruzzo</a></td>
+      <td><a href="notebooks/figures/regions/Basilicata_whole_stats.png">Basilicata</a></td>
+      <td><a href="notebooks/figures/regions/Calabria_whole_stats.png">Calabria</a></td>
+      <td><a href="notebooks/figures/regions/Campania_whole_stats.png">Campania</a></td>
+    </tr>
+    <tr>
+       <td><a href="notebooks/figures/regions/Emilia Romagna_whole_stats.png">Emilia Romagna</a></td>
+      <td><a href="notebooks/figures/regions/Friuli Venezia Giulia_whole_stats.png">Friuli Venezia Giulia</a></td>
+      <td><a href="notebooks/figures/regions/Lazio_whole_stats.png">Lazio</a></td>
+      <td><a href="notebooks/figures/regions/Liguria_whole_stats.png">Liguria</a></td>
+    </tr>
+    <tr>
+      <td><a href="notebooks/figures/regions/Lombardia_whole_stats.png">Lombardia</a></td>
+      <td><a href="notebooks/figures/regions/Marche_whole_stats.png">Marche</a></td>
+      <td><a href="notebooks/figures/regions/Molise_whole_stats.png">Molise</a></td>
+      <td><a href="notebooks/figures/regions/Piemonte_whole_stats.png">Piemonte</a></td>
+    </tr>
+    <tr>
+      <td><a href="notebooks/figures/regions/Puglia_whole_stats.png">Puglia</a></td>
+      <td><a href="notebooks/figures/regions/Sardegna_whole_stats.png">Sardegna</a></td>
+      <td><a href="notebooks/figures/regions/Sicilia_whole_stats.png">Sicilia</a></td>
+      <td><a href="notebooks/figures/regions/Toscana_whole_stats.png">Toscana</a></td>
+    </tr>
+    <tr>
+      <td><a href="notebooks/figures/regions/Trentino-Alto Adige_whole_stats.png">Trentino-Alto Adige</a></td>
+      <td><a href="notebooks/figures/regions/Umbria_whole_stats.png">Umbria</a></td>
+      <td><a href="notebooks/figures/regions/Valle d'Aosta_whole_stats.png">Valle d'Aosta</a></td>
+      <td><a href="notebooks/figures/regions/Veneto_whole_stats.png">Veneto</a></td>
+    </tr>
+  </tbody>
+</table>
 
 #### Per province statistics:
 <p>
 <a href="notebooks/figures/provinces_trend.png">
-<img border="0" alt="Per province statistics" src="notebooks/figures/provinces_trend.png" width="300" height="200">
+<img border="0" alt="Per province statistics" src="notebooks/figures/provinces_trend.png" width="550" height="400">
 </a>
 </p>
 
