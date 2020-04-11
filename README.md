@@ -28,6 +28,14 @@ Click on an image to get its full size version.
 </a>
 </p>
 
+<br> 
+
+<p>
+<a href="notebooks/figures/Italy_stats_cases_tests_ratio.png">
+<img border="0" alt="Cases and tests ratio" src="notebooks/figures/Italy_stats_cases_tests_ratio.png" width="640" height="200">
+</a>
+</p>
+
 #### Per region statistics:
 <p>
 <a href="notebooks/figures/per_region_stats.png">
