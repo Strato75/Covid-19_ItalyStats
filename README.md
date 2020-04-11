@@ -21,14 +21,14 @@ Click on an image to get its full size version.
 </p>
 
 ### Italy:
-#### Whole nation statistics:
+#### Whole country statistics:
 <p>
 <a href="notebooks/figures/Italy_stats.png">
 <img border="0" alt="Italy statistics" src="notebooks/figures/Italy_stats.png" width="640" height="500">
 </a>
 </p>
 
-<br> 
+#### Whole country: ratio between cases and tests:
 
 <p>
 <a href="notebooks/figures/Italy_stats_cases_tests_ratio.png">
